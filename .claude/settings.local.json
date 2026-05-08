@@ -5,7 +5,10 @@
       "Bash(npm create:*)",
       "Bash(npm install:*)",
       "Bash(npm run:*)",
-      "Bash(npm uninstall:*)"
+      "Bash(npm uninstall:*)",
+      "Bash(nvm use:*)",
+      "Bash(nvm install:*)",
+      "Bash(rm:*)"
     ]
   }
 }
